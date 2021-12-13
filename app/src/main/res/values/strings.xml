@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aktivis Bola</string>
+    <string name="clubs_name">Nama Klub</string>
+    <string name="detail">Detail</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="email_ananda120206_gmail_com">Email : ananda120206@gmail.com</string>
+    <string name="nama">Nama : Ananda Dwi Mirza</string>
+</resources>
